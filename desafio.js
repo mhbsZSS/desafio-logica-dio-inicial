@@ -4,7 +4,7 @@ let nome = "Gandalf";
 let xp = 100; 
 
 
-// Verifica se a experiência é menor ou igual a 1000
+// Verifica cada experiencia adquirida pelo herói
 if (xp <= 1000) {
   console.log("O herói de nome " + nome + "e está no nível Ferro");
 } 
